@@ -1,4 +1,3 @@
-# IST2020ReplicationPackage
 # A Longitudinal Exploratory Study on the Impact of Refactoring in Android Application: Replication Package (IST 2020)
 This repository contains all the material required to replicate our analysis, including (i) the raw input data (ii) the statistical analysis scripts, and (iii) the analysis results in form of data, plots, etc.
 
