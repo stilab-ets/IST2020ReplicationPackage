@@ -1,0 +1,25 @@
+App,Item pairs,Support,Confidence,Lift,leverage,Conviction,Chi-square P-value,Cramer's
+Congress,LazyClass:Extract Method,0.06,0.54,4.682,0.06,3.437,0.7851,0.004437236
+,LazyClass:Rename Method,0.08,0.8,4.712,0.062,3.706,0.6632,0.004335028
+,LazyClass:Move Method,0.08,0.75,4.714,0.061,3.506,0.1214,0.01417949
+,ComplexClass:Extract Method,0.35,0.62,4.426,0.028,1.811,0.0009995,0.0126
+,Long Method: Exract Method,0.34,0.63,6.137,0.025,1.792,0.002499,0.0126
+Netguard,LazyClass:Extract And Move Method,0.11,0.51,1.149,0.014,1.402,1,0
+,ComplexClass:Rename Method,0.1,0.77,4.711,0.082,3.633,1,0
+,Feature Envy: Extract Method,0.16,0.97,1.366,0.022,1.175,0.07646,0.0462
+,SpaghettiCode:Extract Method,0.02,0.56,3.887,0.023,2.171,0.001999,0.0941
+Apg,ComplexClass:Extract Method,0.09,0.53,1.79,0.047,1.654,0.0004998,0.02938433
+,ComplexClass:Move Method,0.45,0.64,2.084,0.007,0.903,0.0009995,0.01744837
+,ComplexClass:Pull Up Attribute,0.16,0.5,1.148,0.033,0.828,0.1069,0.006810308
+,ComplexClass:Push Down Method,0.06,0.5,1.185,0.033,0.832,0.01599,0.01105709
+,ComplexClass:Extract And Move Method,0.26,0.62,1.14,0.006,0.888,0.0004998,0.01858443
+,Feature Envy: Move Method,0.45,0.64,1.548,0.024,0.897,0.001499,0.01340068
+,Feature Envy: Pull Up Attribute,0.22,0.69,1.234,0.034,0.832,0.006497,0.01103557
+,Feature Envy: Extract And Move Method,0.29,0.71,1.405,0.03,0.862,0.001499,0.01367594
+,Long Method: Exract Method,0.34,0.63,7.268,0.392,0.357,0.0004998,0.02107736
+,Long Method: Move Method,0.59,0.83,1.248,0.149,2.287,0.0004998,0.02345434
+,Long Method: Pull Up Attribue,0.24,0.75,1.948,0.297,0.952,0.5872,0.002221109
+,Long Method: Extract And Move Method,0.28,0.67,1.567,0.033,1.398,0.003998,0.01185565
+Notepad,ComplexClass:Rename Method,0.01,0.64,1.45,0.082,1.684,1,0.002751853
+,Feature Envy: Move Method,0.01,0.54,1.214,0.026,0.932,0.07996,0.02829119
+Omni-Notes,ComplexClass:Extract Method,0.02,0.56,4.103,0.037,0.264,0.0004998,0.0712923

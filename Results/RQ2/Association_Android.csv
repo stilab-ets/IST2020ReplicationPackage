@@ -1,0 +1,9 @@
+App,Item pairs,Support,Confidence,Lift,leverage,Conviction,Chi-square P-value,Cramer's
+Congress,LIC:Move Attribute,0.11,0.63,2.437,0.072,2.871,0.002499,0.02945865
+,LIC:Extract And Move Method,0.09,0.52,1.524,0.03,1.587,0.0004998,0.05104296
+,IDS:Extract Method,0.01,0.98,4.48,0.018,1.033,0.06947,0.02174837
+,NLMR:Move Attribute,0.16,0.53,1.124,0.02,1.56,0.2819,0.01036776
+Netguard,LT:Extract And Move Method,0.1,0.58,1.503,0.034,1.75,0.6432,0.01406836
+,NLMR:Extract Method,0.07,0.72,2.831,0.511,0.385,0.0004998,0.1017916
+Apg,MIM:Extract Method,0.24,0.62,1.118,0.087,0.584,0.2214,0.004858987
+Omni-Notes,MIM:Extract Method,0.44,0.67,4.475,0.412,1.688,0.0004998,0.03054494
