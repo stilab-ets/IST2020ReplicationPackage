@@ -7,10 +7,10 @@ Data collection
 ---------------
 The data used for this study can be obtained by executing the scripts available in Scripts Folder: 
 
-* Repodriller : RepoDriller is a Java framework that helps developers on mining software repositories. With it, we extracted Commits. [Availaible here](https://github.com/mauricioaniche/repodriller)
-* RefactoringMiner: RefactoringMiner is a library/API written in Java that can detect refactorings applied in the history of a Java project. [Availaible here](https://github.com/tsantalis/RefactoringMiner)
+* Repodriller : RepoDriller is a Java framework that helps developers on mining software repositories. With it, we extracted Commits ([Availaible here](https://github.com/mauricioaniche/repodriller)).
+* RefactoringMiner: RefactoringMiner is a library/API written in Java that can detect refactorings applied in the history of a Java project ([Availaible here](https://github.com/tsantalis/RefactoringMiner))
 * Checkout_commits.py: checkouts commits before and after each applied refactoring.
-* SeparateCommit.py: Split all_refactorings files (Results of RefactoringMiner) to multiple csv files and each one contains details of a single commit. 
+* SeparateCommit.py: Splits all_refactorings files (Results of RefactoringMiner) to multiple csv files and each one contains details of a single commit. 
 * CalculRefactoring.py: Calculates the number of refactoring operations in each class.  
 * aDoctor.py: Detects Android smells.
 * Organic.py: Detects Object Oriented smells.
@@ -25,7 +25,7 @@ Analysis replication
 ---------------
 The totality of the statistical analysis scripts utilized for the study are available in Analysis_scripts folder: 
 
-* RQ2-3_analysis: Performs all analysis related to RQ2 and RQ3.
+* RQ2-3_analysis.R: Performs all analysis related to RQ2 and RQ3.
 * RQ4_analysis.R: Performs all analysis related to RQ4.
 * RQ4_analysis_plots.R: Performs all analysis and plots results related to RQ4.
 
