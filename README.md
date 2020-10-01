@@ -8,16 +8,16 @@ Data collection
 The data used for this study can be obtained by executing the scripts available in Scripts Folder: 
 
 * Repodriller : RepoDriller is a Java framework that helps developers on mining software repositories. With it, we extracted Commits ([Availaible here](https://github.com/mauricioaniche/repodriller)).
-* RefactoringMiner: RefactoringMiner is a library/API written in Java that can detect refactorings applied in the history of a Java project ([Availaible here](https://github.com/tsantalis/RefactoringMiner))
+* RefactoringMiner: RefactoringMiner is a library/API written in Java that can detect refactorings applied in the history of a Java project ([Availaible here](https://github.com/tsantalis/RefactoringMiner)).
 * Checkout_commits.py: checkouts commits before and after each applied refactoring.
 * SeparateCommit.py: Splits all_refactorings files (Results of RefactoringMiner) to multiple csv files and each one contains details of a single commit. 
 * CalculRefactoring.py: Calculates the number of refactoring operations in each class.  
 * aDoctor.py: Detects Android smells.
 * Organic.py: Detects Object Oriented smells.
 * Organic_JSON.to.CSV.py: Parses JSON files (returns of Organic) and converts them to CSV files.
-* Calcul_diff_smells.py: Calculates the difference in smells before and after each refactoring commit.
+* Calcul_diff_smells.py: Calculates the difference between smells values before and after each refactoring commit.
 * Ck-metrics.py: Calculates quality metrics.
-* Calcul_diff_metrics.py: Calculates the difference in quality metrics before and after each refactoring commit.
+* Calcul_diff_metrics.py: Calculates the difference between quality metrics values before and after each refactoring commit.
 * Merge.py: Merges CSV files. 
 * AssociationMiningRule.py: Calculates support, confidence, lift, leverge and conviction.
 
