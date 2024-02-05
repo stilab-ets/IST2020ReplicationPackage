@@ -37,3 +37,21 @@ OO smells, Android smells, Quality metrics values before and after the applicati
 Results and plots
 ---------------
 The results produced in order to answer our research questions are provided in results folder. The totality of the results and plots generated during the analysis processes are provided.
+
+
+# How to cite?
+
+Please, use the following bibtex entry:
+
+```tex
+@article{hamdi2021longitudinal,
+  title={A longitudinal study of the impact of refactoring in android applications},
+  author={Hamdi, Oumayma and Ouni, Ali and Cinn{\'e}ide, Mel {\'O} and Mkaouer, Mohamed Wiem},
+  journal={Information and Software Technology},
+  volume={140},
+  pages={106699},
+  year={2021},
+  publisher={Elsevier}
+}
+
+```
